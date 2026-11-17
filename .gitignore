@@ -1,0 +1,16 @@
+.DS_Store
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
+*.slnx
+*.keystore
+*.jks
+.env
+.env.*
+google-services.json
+GoogleService-Info.plist
